@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this research code, please cite it using the metadata below."
+title: "From Signals to Warnings: An Explainable Event-Window Framework for Stablecoin Instability"
+type: software
+authors:
+  - family-names: "Kyalo"
+    given-names: "Denis"
+version: 1.0.0
+date-released: 2026-09-07
+license: MIT
+repository-code: "https://github.com/dk546/stablecoin-instability-early-warning"
+keywords:
+  - stablecoins
+  - early warning
+  - machine learning
+  - explainable artificial intelligence
+  - financial risk
